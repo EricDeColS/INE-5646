@@ -1,0 +1,30 @@
+.wrapper {
+    margin-bottom: 1rem;
+}
+
+.input {
+    border: 1px solid #eee;
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.3rem;
+    border-radius: 0.2rem;
+    background: #eee;
+    transition: 0.2s;
+}
+
+.input:focus, .input:hover {
+    outline: none;
+    background: #cdbff5;
+    box-shadow: 0 0 0 2px #b095fc;
+}
+
+.input:focus::placeholder {
+    color: transparent;
+}
+
+.error {
+    color: #f31;
+    font-size: 0.87rem;
+    margin-top: 0.25rem;
+}
