@@ -20,43 +20,43 @@ export default function Ponto() {
     horasTrabalhadas: 8,
     days: [
       {
-        dia: '10/11',
+        dia: 'dom 10/11',
         horasTrabalhadas: 0,
         saldo: 0,
         info: null
       },
       {
-        dia: '11/11',
+        dia: 'seg 11/11',
         horasTrabalhadas: 6,
         saldo: -2,
         info: null
       },
       {
-        dia: '12/11',
+        dia: 'ter 12/11',
         horasTrabalhadas: 8,
         saldo: 0,
         info: null
       },
       {
-        dia: '13/11',
+        dia: 'qua 13/11',
         horasTrabalhadas: 8,
         saldo: 0,
         info: null
       },
       {
-        dia: '14/11',
+        dia: 'qui 14/11',
         horasTrabalhadas: 10,
         saldo: 2,
         info: null
       },
       {
-        dia: '15/11',
+        dia: 'sex 15/11',
         horasTrabalhadas: 8,
         saldo: 0,
         info: null
       },
      {
-        dia: '16/11',
+        dia: 'sab 16/11',
         horasTrabalhadas: 0,
         saldo: 0,
         info: null
